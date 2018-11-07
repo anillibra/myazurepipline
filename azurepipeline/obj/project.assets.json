@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rd\\azurepipeline\\azurepipeline\\azurepipeline.csproj",
+      "projectUniqueName": "D:\\rd\\gitprjs\\myazurepipline\\azurepipeline\\azurepipeline.csproj",
       "projectName": "azurepipeline",
-      "projectPath": "D:\\rd\\azurepipeline\\azurepipeline\\azurepipeline.csproj",
+      "projectPath": "D:\\rd\\gitprjs\\myazurepipline\\azurepipeline\\azurepipeline.csproj",
       "packagesPath": "C:\\Users\\Anil\\.nuget\\packages\\",
-      "outputPath": "D:\\rd\\azurepipeline\\azurepipeline\\obj\\",
+      "outputPath": "D:\\rd\\gitprjs\\myazurepipline\\azurepipeline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
